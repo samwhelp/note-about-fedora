@@ -10,11 +10,15 @@ grand_parent: 中文輸入法
 # fcitx5-chewing
 
 
-## 
+## 查詢
+
+執行
 
 ``` sh
 dnf search fcitx5
 ```
+
+顯示
 
 ```
 Last metadata expiration check: 1:38:37 ago on Sun 15 May 2022 11:29:34 AM EDT.
