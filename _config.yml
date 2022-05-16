@@ -1,5 +1,5 @@
 title: "Fedora 探索筆記"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-sefedora_enabled: true
-sefedora_tokenizer_separator: /[\s/]+/
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
