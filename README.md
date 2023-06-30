@@ -1,7 +1,10 @@
 
 # 首頁
 
-* [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) ([GitHub](https://github.com/samwhelp/note-about-fedora))
+| Link | GitHub |
+| ---- | ------ |
+| [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
 
 ## 主題
