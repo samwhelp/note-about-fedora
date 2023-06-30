@@ -33,10 +33,12 @@
 
 ## 相關筆記
 
-## samwhelp
+* [System Modeling](https://samwhelp.github.io/system-modeling/)
+* [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/)
+* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
+
+
+
+## Samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
-* [system-modeling](https://samwhelp.github.io/system-modeling/) / ([GitHub](https://github.com/samwhelp/system-modeling))
-* [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
-* [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
-* [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
