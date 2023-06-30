@@ -36,6 +36,7 @@
 * [System Modeling](https://samwhelp.github.io/system-modeling/)
 * [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/)
 * [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
+* [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/)
 
 
 
