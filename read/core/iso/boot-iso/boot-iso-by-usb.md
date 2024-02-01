@@ -24,10 +24,10 @@ grand_parent: ISO
 舉例執行下面指令
 
 ``` sh
-wget -c https://download.fedoraproject.org/pub/fedora/linux/releases/38/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-38-1.6.iso
+wget -c https://download.fedoraproject.org/pub/fedora/linux/releases/39/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-39-1.5.iso
 ```
 
-就會下載一個檔案「Fedora-Xfce-Live-x86_64-38-1.6.iso」。
+就會下載一個檔案「Fedora-Xfce-Live-x86_64-39-1.5.iso」。
 
 
 ### 尋找 Device 代號
@@ -47,13 +47,13 @@ lsblk
 接著執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./Fedora-Xfce-Live-x86_64-38-1.6.iso of=/dev/sdc bs=4M status=progress && sync
+sudo dd if=./Fedora-Xfce-Live-x86_64-39-1.5.iso of=/dev/sdc bs=4M status=progress && sync
 ```
 
 或是執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./Fedora-Xfce-Live-x86_64-38-1.6.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
+sudo dd if=./Fedora-Xfce-Live-x86_64-39-1.5.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
 ```
 
 接著重新開機，在「BIOS」選擇使用「該USB隨身碟」開機。
