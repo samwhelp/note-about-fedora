@@ -12,7 +12,7 @@ grand_parent: ISO
 
 ## 範例專案
 
-* boot-iso-by-grub / [demo-boot-fedora-39-iso](https://github.com/samwhelp/fedora-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-39-iso)
+* boot-iso-by-grub / [demo-boot-fedora-40-iso](https://github.com/samwhelp/fedora-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-40-iso)
 
 
 ## 下載 ISO
@@ -35,8 +35,8 @@ sudo curl -fLo //opt/iso/fedora/40/Fedora-Xfce-Live-x86_64-40-1.14.iso --create-
 
 | GRUB Boot ISO 範例 | 設定檔路徑 | 是否需要執行 update-grub |
 | --- | --- | --- |
-| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-39-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo update-grub` |
-| demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-39-iso/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
+| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-40-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo update-grub` |
+| demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-40-iso/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
 
 > 關於「`sudo update-grub`」指的是「`sudo grub-mkconfig -o /boot/grub/grub.cfg`」
 
@@ -44,7 +44,7 @@ sudo curl -fLo //opt/iso/fedora/40/Fedora-Xfce-Live-x86_64-40-1.14.iso --create-
 ## GRUB Menu Entry / Boot ISO 樣板 / Fedora
 
 ``` sh
-menuentry "Fedora 39 ISO / Xfce" --class Fedora {
+menuentry "Fedora 40 ISO / Xfce" --class Fedora {
 	set iso_file="/opt/iso/fedora/40/Fedora-Xfce-Live-x86_64-40-1.14.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
