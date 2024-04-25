@@ -14,7 +14,7 @@ has_children: true
 * [Docs](https://docs.fedoraproject.org/en-US/docs/)
 * [Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
 * [Workstation](https://getfedora.org/en/workstation/)
-* [Spins](https://spins.fedoraproject.org/)
+* [Spins](https://fedoraproject.org/spins/)
 
 
 
