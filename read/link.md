@@ -17,6 +17,10 @@ has_children: true
 * [Spins](https://fedoraproject.org/spins/)
 
 
+## News
+
+* [Fedora Linux 40 released!](https://fedoramagazine.org/announcing-fedora-linux-40/) ([F40](https://docs.fedoraproject.org/en-US/releases/f40/)) ([Docs](https://docs.fedoraproject.org/en-US/fedora/f40/))
+
 
 ## Just the Docs
 
