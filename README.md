@@ -24,6 +24,7 @@
 | [Fedora Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-fedora-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-fedora-kde-plasma) |
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
 | [Fedora Budgie 探索筆記](https://samwhelp.github.io/note-about-fedora-budgie/) | [GitHub](https://github.com/samwhelp/note-about-fedora-budgie) |
+| [Fedora Xfce 探索筆記](https://samwhelp.github.io/note-about-fedora-xfce/) | [GitHub](https://github.com/samwhelp/note-about-fedora-xfce) |
 
 
 
