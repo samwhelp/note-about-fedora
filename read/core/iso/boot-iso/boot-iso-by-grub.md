@@ -35,10 +35,10 @@ sudo curl -fLo //opt/iso/fedora/40/Fedora-Xfce-Live-x86_64-40-1.14.iso --create-
 
 | GRUB Boot ISO 範例 | 設定檔路徑 | 是否需要執行 update-grub |
 | --- | --- | --- |
-| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-40-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo update-grub` |
-| demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-40-iso/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
+| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-40-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
+| demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-fedora-40-iso/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
 
-> 關於「`sudo update-grub`」指的是「`sudo grub-mkconfig -o /boot/grub/grub.cfg`」
+
 
 
 ## GRUB Menu Entry / Boot ISO 樣板 / Fedora
