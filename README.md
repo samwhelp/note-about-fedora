@@ -28,6 +28,15 @@
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
 
 
+| Link | GitHub |
+| ---- | ------ |
+| [Fedora Wayfire 探索筆記](https://samwhelp.github.io/note-about-fedora-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-fedora-wayfire) |
+| [Fedora Labwc 探索筆記](https://samwhelp.github.io/note-about-fedora-labwc/) | [GitHub](https://github.com/samwhelp/note-about-fedora-labwc) |
+| [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
+| [Fedora Sway 探索筆記](https://samwhelp.github.io/note-about-fedora-sway/) | [GitHub](https://github.com/samwhelp/note-about-fedora-sway) |
+| [Fedora River 探索筆記](https://samwhelp.github.io/note-about-fedora-river/) | [GitHub](https://github.com/samwhelp/note-about-fedora-river) |
+
+
 
 
 ## ISO
