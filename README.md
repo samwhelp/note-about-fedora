@@ -21,7 +21,20 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Fedora Xfce 探索筆記](https://samwhelp.github.io/note-about-fedora-xfce/) | [GitHub](https://github.com/samwhelp/note-about-fedora-xfce) |
+| [Fedora Lxqt 探索筆記](https://samwhelp.github.io/note-about-fedora-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-fedora-lxqt) |
 | [Fedora Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-fedora-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-fedora-kde-plasma) |
+| [Fedora Budgie 探索筆記](https://samwhelp.github.io/note-about-fedora-budgie/) | [GitHub](https://github.com/samwhelp/note-about-fedora-budgie) |
+| [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Fedora Wayfire 探索筆記](https://samwhelp.github.io/note-about-fedora-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-fedora-wayfire) |
+| [Fedora Labwc 探索筆記](https://samwhelp.github.io/note-about-fedora-labwc/) | [GitHub](https://github.com/samwhelp/note-about-fedora-labwc) |
+| [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
+| [Fedora Sway 探索筆記](https://samwhelp.github.io/note-about-fedora-sway/) | [GitHub](https://github.com/samwhelp/note-about-fedora-sway) |
+| [Fedora River 探索筆記](https://samwhelp.github.io/note-about-fedora-river/) | [GitHub](https://github.com/samwhelp/note-about-fedora-river) |
 
 
 
