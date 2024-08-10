@@ -35,6 +35,7 @@
 | [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
 | [Fedora Sway 探索筆記](https://samwhelp.github.io/note-about-fedora-sway/) | [GitHub](https://github.com/samwhelp/note-about-fedora-sway) |
 | [Fedora River 探索筆記](https://samwhelp.github.io/note-about-fedora-river/) | [GitHub](https://github.com/samwhelp/note-about-fedora-river) |
+| [Fedora Cosmic 探索筆記](https://samwhelp.github.io/note-about-fedora-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-fedora-cosmic) |
 
 
 
