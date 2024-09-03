@@ -12,6 +12,7 @@
 
 * [Fedora Adjustment](#fedora-adjustment)
 * [ISO](#iso)
+* [工具](https://samwhelp.github.io/note-about-fedora/read/subject/tool.html)
 * [相關筆記](#相關筆記)
 
 
