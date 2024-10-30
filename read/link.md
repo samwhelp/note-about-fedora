@@ -19,6 +19,7 @@ has_children: true
 
 ## News
 
+* [Fedora Linux 41 is here!](https://fedoramagazine.org/announcing-fedora-linux-41/) ([F41](https://docs.fedoraproject.org/en-US/releases/f41/)) ([Docs](https://docs.fedoraproject.org/en-US/fedora/f41/))
 * [Fedora Linux 40 released!](https://fedoramagazine.org/announcing-fedora-linux-40/) ([F40](https://docs.fedoraproject.org/en-US/releases/f40/)) ([Docs](https://docs.fedoraproject.org/en-US/fedora/f40/))
 
 
