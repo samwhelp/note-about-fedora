@@ -23,6 +23,16 @@ has_children: true
 * [Fedora Linux 40 released!](https://fedoramagazine.org/announcing-fedora-linux-40/) ([F40](https://docs.fedoraproject.org/en-US/releases/f40/)) ([Docs](https://docs.fedoraproject.org/en-US/fedora/f40/))
 
 
+
+
+## Fedora Bootstrap
+
+* Search : [fedora bootstrap notes]https://www.google.com/search?q=fedora+bootstrap+notes)
+* [fedora-bootstap-notes](https://github.com/zpangwin/fedora-bootstap-notes)
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
