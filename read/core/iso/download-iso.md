@@ -82,7 +82,7 @@ wget -c -i iso-download.txt
 | Spins | Download |
 | --- | --- |
 | [Gnome Shell (Workstation)](https://fedoraproject.org/workstation/) | [Download](https://fedoraproject.org/workstation/download) |
-| [Kde Plasma](https://fedoraproject.org/spins/kde/) | [Download](https://fedoraproject.org/spins/kde/download) |
+| [Kde Plasma](https://fedoraproject.org/kde/) | [Download](https://fedoraproject.org/kde/download) |
 | [Xfce](https://fedoraproject.org/spins/xfce/) | [Download](https://fedoraproject.org/spins/xfce/download) |
 | [Lxqt](https://fedoraproject.org/spins/lxqt/) | [Download](https://fedoraproject.org/spins/lxqt/download) |
 | [Lxde](https://fedoraproject.org/spins/lxde/) | [Download](https://fedoraproject.org/spins/lxde/download) |
