@@ -83,12 +83,14 @@ wget -c -i iso-download.txt
 | --- | --- |
 | [Gnome Shell (Workstation)](https://fedoraproject.org/workstation/) | [Download](https://fedoraproject.org/workstation/download) |
 | [Kde Plasma](https://fedoraproject.org/spins/kde/) | [Download](https://fedoraproject.org/spins/kde/download) |
-| [Lxqt](https://fedoraproject.org/spins/lxqt/) | [Download](https://fedoraproject.org/spins/lxqt/download) |
 | [Xfce](https://fedoraproject.org/spins/xfce/) | [Download](https://fedoraproject.org/spins/xfce/download) |
+| [Lxqt](https://fedoraproject.org/spins/lxqt/) | [Download](https://fedoraproject.org/spins/lxqt/download) |
+| [Lxde](https://fedoraproject.org/spins/lxde/) | [Download](https://fedoraproject.org/spins/lxde/download) |
 | [Budgie](https://fedoraproject.org/spins/budgie/) | [Download](https://fedoraproject.org/spins/budgie/download) |
 | [Mate Compiz](https://fedoraproject.org/spins/mate/) | [Download](https://fedoraproject.org/spins/mate/download) |
 | [Cinnamon](https://fedoraproject.org/spins/cinnamon/) | [Download](https://fedoraproject.org/spins/cinnamon/download) |
-| [Lxde](https://fedoraproject.org/spins/lxde/) | [Download](https://fedoraproject.org/spins/lxde/download) |
+| [Cosmic](https://fedoraproject.org/spins/cosmic/) | [Download](https://fedoraproject.org/spins/cosmic/download) |
 | [I3](https://fedoraproject.org/spins/i3/) | [Download](https://fedoraproject.org/spins/i3/download) |
 | [Sway](https://fedoraproject.org/spins/sway/) | [Download](https://fedoraproject.org/spins/sway/download) |
+| [Miracle](https://fedoraproject.org/spins/miraclewm/) | [Download](https://fedoraproject.org/spins/miraclewm/download) |
 | [Soas](https://fedoraproject.org/spins/soas/) | [Download](https://fedoraproject.org/spins/soas/download) |
