@@ -9,16 +9,20 @@ has_children: true
 
 ## Fedora
 
-* [Fedora](https://getfedora.org/)
+* [Fedora](https://fedoraproject.org/)
 * [Fedora Package Sources](https://src.fedoraproject.org/)
 * [Docs](https://docs.fedoraproject.org/en-US/docs/)
 * [Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
-* [Workstation](https://getfedora.org/en/workstation/)
+* [Workstation](https://fedoraproject.org/workstation/)
+* [Kde Plasma](https://fedoraproject.org/kde/)
 * [Spins](https://fedoraproject.org/spins/)
+
+
 
 
 ## News
 
+* [The answer is 42! Fedora Linux 42, that is.](https://fedoramagazine.org/announcing-fedora-linux-42/) ([F42](https://docs.fedoraproject.org/en-US/releases/f42/)) ([Docs](https://docs.fedoraproject.org/en-US/fedora/f42/))
 * [Fedora Linux 41 is here!](https://fedoramagazine.org/announcing-fedora-linux-41/) ([F41](https://docs.fedoraproject.org/en-US/releases/f41/)) ([Docs](https://docs.fedoraproject.org/en-US/fedora/f41/))
 * [Fedora Linux 40 released!](https://fedoramagazine.org/announcing-fedora-linux-40/) ([F40](https://docs.fedoraproject.org/en-US/releases/f40/)) ([Docs](https://docs.fedoraproject.org/en-US/fedora/f40/))
 
