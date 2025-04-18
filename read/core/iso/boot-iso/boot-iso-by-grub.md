@@ -44,6 +44,7 @@ sudo curl -fLo /opt/iso/fedora/42/Fedora-Xfce-Live-42-1.1.x86_64.iso --create-di
 ## GRUB Menu Entry / Boot ISO 樣板 / Fedora
 
 ``` sh
+
 menuentry "Fedora 42 ISO / Xfce" --class Fedora {
 	set iso_file="/opt/iso/fedora/42/Fedora-Xfce-Live-42-1.1.x86_64.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
@@ -52,8 +53,8 @@ menuentry "Fedora 42 ISO / Xfce" --class Fedora {
 	loopback loop ($iso_partition)$iso_file
 	set boot_option=""
 	#set boot_option="quiet splash"
-	linux (loop)/images/pxeboot/vmlinuz iso-scan/filename=$iso_file root=live:CDLABEL=Fedora-Xfce-Live-42-1-1 rd.live.image rhgb $boot_option
-	initrd (loop)/images/pxeboot/initrd.img
+	linux (loop)/boot/x86_64/loader/linux iso-scan/filename=$iso_file root=live:CDLABEL=Fedora-Xfce-Live-42 rd.live.image rhgb $boot_option
+	initrd (loop)/boot/x86_64/loader/initrd
 }
 
 ```
