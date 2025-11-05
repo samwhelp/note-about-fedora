@@ -33,7 +33,7 @@
 
 ## Fedora Respin
 
-> [Fedora Spins](https://samwhelp.github.io/note-about-fedora/read/core/iso/download-iso.html#發行列表) |
+> [Fedora Spins](https://samwhelp.github.io/note-about-fedora/read/core/iso/download-iso.html#發行列表)
 
 | Link | GitHub |
 | ---- | ------ |
