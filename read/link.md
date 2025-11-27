@@ -10,6 +10,7 @@ has_children: true
 ## Fedora
 
 * [Fedora](https://fedoraproject.org/)
+* [Fedora Packages](https://packages.fedoraproject.org/)
 * [Fedora Package Sources](https://src.fedoraproject.org/)
 * [Docs](https://docs.fedoraproject.org/en-US/docs/)
 * [Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
