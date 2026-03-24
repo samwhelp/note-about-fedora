@@ -39,6 +39,13 @@ has_children: true
 
 
 
+## Fedora Wiki
+
+* [Livemedia-creator- How to create and use a Live CD](https://fedoraproject.org/wiki/Livemedia-creator-_How_to_create_and_use_a_Live_CD)
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
