@@ -19,7 +19,7 @@ parent: ISO
 
 ## 下載腳本
 
-* [下載腳本](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-fedora-43-iso/)
+* [下載腳本](https://github.com/samwhelp/fedora-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-fedora-44-iso/)
 
 
 
@@ -28,11 +28,11 @@ parent: ISO
 
 > 可以到「Fedora / [Workstation](https://fedoraproject.org/workstation/) / [Download](https://fedoraproject.org/workstation/download)」或「Fedora / [Kde Plasma](https://fedoraproject.org/kde/) / [Download](https://fedoraproject.org/kde/download)」或「Fedora / [Spins](https://fedoraproject.org/spins/)」，找到相關的下載點。
 
-> 例如：要找「Workstation」可以直接到「[https://download.fedoraproject.org/pub/fedora/linux/releases/43/Workstation/x86_64/iso/](https://download.fedoraproject.org/pub/fedora/linux/releases/43/Workstation/x86_64/iso/)」，
+> 例如：要找「Workstation」可以直接到「[https://download.fedoraproject.org/pub/fedora/linux/releases/44/Workstation/x86_64/iso/](https://download.fedoraproject.org/pub/fedora/linux/releases/44/Workstation/x86_64/iso/)」，
 
-> 例如：要找「Kde Plasma」可以直接到「[https://download.fedoraproject.org/pub/fedora/linux/releases/43/KDE/x86_64/iso/](https://download.fedoraproject.org/pub/fedora/linux/releases/43/KDE/x86_64/iso/)」，
+> 例如：要找「Kde Plasma」可以直接到「[https://download.fedoraproject.org/pub/fedora/linux/releases/44/KDE/x86_64/iso/](https://download.fedoraproject.org/pub/fedora/linux/releases/44/KDE/x86_64/iso/)」，
 
-> 例如：要找「Spins」可以直接到「[https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/](https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/)」
+> 例如：要找「Spins」可以直接到「[https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/](https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/)」
 
 
 
@@ -44,27 +44,27 @@ parent: ISO
 先產生一個檔案「iso-download.txt」，內容如下
 
 ```
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Workstation/x86_64/iso/Fedora-Workstation-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/KDE/x86_64/iso/Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-Xfce-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-LXQt-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-LXDE-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-Budgie-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-MATE_Compiz-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-Cinnamon-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-COSMIC-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-i3-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-Sway-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-MiracleWM-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-SoaS-Live-43-1.6.x86_64.iso
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-KDE-Mobile-Live-43-1.6.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Workstation/x86_64/iso/Fedora-Workstation-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/KDE/x86_64/iso/Fedora-KDE-Desktop-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-Xfce-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-LXQt-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-LXDE-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-Budgie-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-MATE_Compiz-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-Cinnamon-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-COSMIC-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-i3-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-Sway-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-MiracleWM-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-SoaS-Live-44-1.7.x86_64.iso
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-KDE-Mobile-Live-44-1.7.x86_64.iso
 
 
 
 
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Workstation/x86_64/iso/Fedora-Workstation-43-1.6-x86_64-CHECKSUM
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/KDE/x86_64/iso/Fedora-KDE-43-1.6-x86_64-CHECKSUM
-https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-Spins-43-1.6-x86_64-CHECKSUM
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Workstation/x86_64/iso/Fedora-Workstation-44-1.7-x86_64-CHECKSUM
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/KDE/x86_64/iso/Fedora-KDE-44-1.7-x86_64-CHECKSUM
+https://download.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-Spins-44-1.7-x86_64-CHECKSUM
 ```
 
 
